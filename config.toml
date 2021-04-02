@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://katachin.github.io/hugotest/"
 languageCode = "ja-JP"
 title = "テストン"
 publishDir = "docs"
