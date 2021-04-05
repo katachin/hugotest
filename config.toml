@@ -3,6 +3,7 @@ languageCode = "ja-JP"
 title = "テストン"
 publishDir = "docs"
 
+# theme = "kata"
 theme = "ananke"
 # x theme = "starter-academic"
 # x theme = "hugo-theme-iris"
@@ -30,3 +31,75 @@ theme = "ananke"
 # featured_image = "/images/gohugo-default-sample-hero-image.jpg"
 featured_image = "/images/orange720x320@.png"
 # featured_image = "/images/test.png"
+
+[menu]
+
+  [[menu.main]]
+    name = "[TOP]"
+    url = "/"
+    weight = -100
+
+  [[menu.main]]
+    name = "[ROOT2]"
+    url = "/root2"
+    weight = 5
+
+  [[menu.main]]
+    name = "[ROOT1]"
+    url = "/root1"
+    weight = 5
+
+  [[menu.main]]
+    name = "[会社概要]"
+    url = "/about/"
+    weight = 10
+ 
+  [[menu.main]]
+    name = "[お問い合わせ]"
+    url = "/contact/"
+    weight = 20
+ 
+  [[menu.main]]
+    name = "[商品・サービス]"
+    url = "/products/"
+    weight = 30
+ 
+  [[menu.main]]
+    name = "[プライバシーポリシー]"
+    url = "/privacy/"
+    weight = 40
+
+  [[menu.main]]
+    name = "[A]"
+    url = "/a"
+    weight = 100
+
+  [[menu.main]]
+    name = "[A-A1]"
+    url = "/a/a1"
+    weight = 110
+
+  [[menu.main]]
+    name = "[B]"
+    url = "/b"
+    weight = 200
+
+  [[menu.main]]
+    name = "[B-B1]"
+    url = "/b/b1"
+    weight = 210
+
+  [[menu.main]]
+    name = "[B-BB]"
+    url = "/b/bb"
+    weight = 300
+
+  [[menu.main]]
+    name = "[B-BB-BB1]"
+    url = "/b/bb/bb1"
+    weight = 310
+
+  [[menu.main]]
+    name = "[B-BB-BB2]"
+    url = "/b/bb/bb2"
+    weight = 320

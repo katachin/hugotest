@@ -5,3 +5,7 @@ draft: false
 ---
 
 これは root1.md だよ
+
+![](../A.png)
+
+![](../images/muji.png)

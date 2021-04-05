@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>indexだよ on テストン</title>
+    <title>_index ようこそ on テストン</title>
     <link>https://katachin.github.io/hugotest/</link>
-    <description>Recent content in indexだよ on テストン</description>
+    <description>Recent content in _index ようこそ on テストン</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Fri, 02 Apr 2021 15:02:06 +0900</lastBuildDate><atom:link href="https://katachin.github.io/hugotest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>プライバシーポリシー</title>
+      <link>https://katachin.github.io/hugotest/privacy/</link>
+      <pubDate>Sat, 03 Apr 2021 17:01:02 +0900</pubDate>
+      
+      <guid>https://katachin.github.io/hugotest/privacy/</guid>
+      <description>プライバシーポリシーの記述</description>
+    </item>
+    
+    <item>
+      <title>商品・サービス</title>
+      <link>https://katachin.github.io/hugotest/products/</link>
+      <pubDate>Sat, 03 Apr 2021 17:00:56 +0900</pubDate>
+      
+      <guid>https://katachin.github.io/hugotest/products/</guid>
+      <description>商品・サービスについての記述</description>
+    </item>
+    
+    <item>
+      <title>お問い合わせ</title>
+      <link>https://katachin.github.io/hugotest/contact/</link>
+      <pubDate>Sat, 03 Apr 2021 17:00:46 +0900</pubDate>
+      
+      <guid>https://katachin.github.io/hugotest/contact/</guid>
+      <description>電話番号： 0120-xxx-xxx
+FAX番号： 03-xxxx-xxxx
+Email： info@example.com
+ホームページ： https://example.com</description>
+    </item>
+    
+    <item>
+      <title>会社概要</title>
+      <link>https://katachin.github.io/hugotest/about/</link>
+      <pubDate>Sat, 03 Apr 2021 17:00:41 +0900</pubDate>
+      
+      <guid>https://katachin.github.io/hugotest/about/</guid>
+      <description>【創業】 ・平成　年　月　日
+【拠点】 本社：東京都○○区○○○
+支社：埼玉県○○市○○○
+工場：神奈川県○○市○○○</description>
+    </item>
+    
     <item>
       <title>b/bb/bb2 だよ</title>
       <link>https://katachin.github.io/hugotest/b/bb/bb2/</link>
@@ -35,12 +77,12 @@
     </item>
     
     <item>
-      <title>a/a1 だよ</title>
-      <link>https://katachin.github.io/hugotest/a/a1/</link>
-      <pubDate>Fri, 02 Apr 2021 15:02:42 +0900</pubDate>
+      <title>a/index だよ</title>
+      <link>https://katachin.github.io/hugotest/a/</link>
+      <pubDate>Fri, 02 Apr 2021 15:02:34 +0900</pubDate>
       
-      <guid>https://katachin.github.io/hugotest/a/a1/</guid>
-      <description>これは a/a1.md だよ</description>
+      <guid>https://katachin.github.io/hugotest/a/</guid>
+      <description>これは a/index.md だよ</description>
     </item>
     
     <item>

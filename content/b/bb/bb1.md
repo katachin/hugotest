@@ -5,3 +5,7 @@ draft: false
 ---
 
 これは b/bb/bb1.md だよ
+
+![](../../E.png)
+
+![](../../../images/muji.png)

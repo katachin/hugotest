@@ -5,3 +5,7 @@ draft: false
 ---
 
 これは a/index.md だよ
+
+![](D.png)
+
+![](../images/muji.png)
