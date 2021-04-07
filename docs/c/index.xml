@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>c/_index だよ on テストン</title>
+    <link>https://katachin.github.io/hugotest/c/</link>
+    <description>Recent content in c/_index だよ on テストン</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 07 Apr 2021 16:03:26 +0900</lastBuildDate><atom:link href="https://katachin.github.io/hugotest/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>c/c2　だよ</title>
+      <link>https://katachin.github.io/hugotest/c/c2/</link>
+      <pubDate>Wed, 07 Apr 2021 15:50:39 +0900</pubDate>
+      
+      <guid>https://katachin.github.io/hugotest/c/c2/</guid>
+      <description>これは c/c2.md だよ</description>
+    </item>
+    
+    <item>
+      <title>c/c1 だよ</title>
+      <link>https://katachin.github.io/hugotest/c/c1/</link>
+      <pubDate>Wed, 07 Apr 2021 15:50:11 +0900</pubDate>
+      
+      <guid>https://katachin.github.io/hugotest/c/c1/</guid>
+      <description>これは c/c1.md だよ</description>
+    </item>
+    
+  </channel>
+</rss>

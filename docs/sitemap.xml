@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://katachin.github.io/hugotest/c/</loc>
+    <lastmod>2021-04-07T16:03:26+09:00</lastmod>
+  </url><url>
+    <loc>https://katachin.github.io/hugotest/c/c2/</loc>
+    <lastmod>2021-04-07T15:50:39+09:00</lastmod>
+  </url><url>
+    <loc>https://katachin.github.io/hugotest/c/c1/</loc>
+    <lastmod>2021-04-07T15:50:11+09:00</lastmod>
+  </url><url>
+    <loc>https://katachin.github.io/hugotest/c/</loc>
+    <lastmod>2021-04-07T15:49:54+09:00</lastmod>
+  </url><url>
     <loc>https://katachin.github.io/hugotest/privacy/</loc>
     <lastmod>2021-04-03T17:01:02+09:00</lastmod>
   </url><url>
@@ -14,16 +26,19 @@
     <loc>https://katachin.github.io/hugotest/about/</loc>
     <lastmod>2021-04-03T17:00:41+09:00</lastmod>
   </url><url>
-    <loc>https://katachin.github.io/hugotest/b/bb/bb2/</loc>
+    <loc>https://katachin.github.io/hugotest/d/bb/bb2/</loc>
     <lastmod>2021-04-02T15:04:04+09:00</lastmod>
   </url><url>
-    <loc>https://katachin.github.io/hugotest/b/bb/bb1/</loc>
+    <loc>https://katachin.github.io/hugotest/d/bb/bb1/</loc>
     <lastmod>2021-04-02T15:04:01+09:00</lastmod>
   </url><url>
-    <loc>https://katachin.github.io/hugotest/b/b1/</loc>
+    <loc>https://katachin.github.io/hugotest/d/bb/</loc>
+    <lastmod>2021-04-02T15:03:51+09:00</lastmod>
+  </url><url>
+    <loc>https://katachin.github.io/hugotest/d/b1/</loc>
     <lastmod>2021-04-02T15:03:41+09:00</lastmod>
   </url><url>
-    <loc>https://katachin.github.io/hugotest/b/</loc>
+    <loc>https://katachin.github.io/hugotest/d/</loc>
     <lastmod>2021-04-02T15:03:35+09:00</lastmod>
   </url><url>
     <loc>https://katachin.github.io/hugotest/a/</loc>

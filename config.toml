@@ -9,11 +9,11 @@ theme = "ananke"
 # x theme = "hugo-theme-iris"
 # x theme = "doks"
 # theme = "kiss"
-# theme = "hugo-eureka"
+# x theme = "hugo-eureka"
 # theme = "anatole"
 # x theme = "hugo-theme-terminal"
 # theme = "toha"
-# theme = "hugo-theme-dream"
+# theme = x "hugo-theme-dream"
 # theme = "hugo-paper"
 # theme = "hugo-theme-introduction"
 # theme = "hugo-theme-lean-launch-page"
@@ -103,3 +103,18 @@ featured_image = "/images/orange720x320@.png"
     name = "[B-BB-BB2]"
     url = "/b/bb/bb2"
     weight = 320
+
+  [[menu.main]]
+    name = "[C]"
+    url = "/c"
+    weight = 400
+
+  [[menu.main]]
+    name = "[C-C1]"
+    url = "/c/c1"
+    weight = 410
+
+  [[menu.main]]
+    name = "[C-C2]"
+    url = "/c/c2"
+    weight = 420
