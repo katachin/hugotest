@@ -9,6 +9,6 @@ draft: false
 # ごあいさつ
 株式会社○○○のホームページへようこそ
 
-![](A.png)
+![A dayo](A.png)
 
-![](images/muji.png)
+![muji dayo](images/muji.png)

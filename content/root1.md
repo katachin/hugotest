@@ -6,6 +6,6 @@ draft: false
 
 これは root1.md だよ
 
-![](../A.png)
+![画像 A だす](A.png)
 
-![](../images/muji.png)
+![無地画像だす](../images/muji.png)

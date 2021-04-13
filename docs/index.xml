@@ -8,11 +8,70 @@
     <language>ja-JP</language>
     <lastBuildDate>Fri, 02 Apr 2021 15:02:06 +0900</lastBuildDate><atom:link href="https://katachin.github.io/hugotest/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>c/c6 だよ</title>
+      <link>https://katachin.github.io/hugotest/a/c6666.html</link>
+      <pubDate>Thu, 08 Apr 2021 14:43:37 +0900</pubDate>
+      
+      <guid>https://katachin.github.io/hugotest/a/c6666.html</guid>
+      <description>これは c/c6/index.md だよ</description>
+    </item>
+    
+    <item>
+      <title>c/c5 だよ</title>
+      <link>https://katachin.github.io/hugotest/c555.html</link>
+      <pubDate>Thu, 08 Apr 2021 14:39:58 +0900</pubDate>
+      
+      <guid>https://katachin.github.io/hugotest/c555.html</guid>
+      <description>これは c/c5/index.md だよ</description>
+    </item>
+    
+    <item>
+      <title>c/c4 だよ</title>
+      <link>https://katachin.github.io/hugotest/c/c44.html</link>
+      <pubDate>Thu, 08 Apr 2021 14:36:08 +0900</pubDate>
+      
+      <guid>https://katachin.github.io/hugotest/c/c44.html</guid>
+      <description>これは c/c4/index.md だよ</description>
+    </item>
+    
+    <item>
+      <title>まくだう</title>
+      <link>https://katachin.github.io/hugotest/md/</link>
+      <pubDate>Thu, 08 Apr 2021 12:04:48 +0900</pubDate>
+      
+      <guid>https://katachin.github.io/hugotest/md/</guid>
+      <description>見出し1 見出し2 見出し3 見出し4 見出し5 見出し6 見出し1 ～ 見出し6 祇園精舎の鐘の声、諸行無常の響きあり。沙羅双樹の花の色、盛者必衰の理をあらはす。奢れる人も久しからず、ただ春の夜の夢のごとし。猛き者も遂にはほろびぬ、ひとへに風の前の塵に同じ。
+遠く異朝をとぶらへば、秦の趙高、漢の王莽、梁の朱忌、唐の禄山、これらは皆旧主先皇の政にもしたがはず、楽しみをきはめ、諫めをも思ひ入れず、天下の乱れん事を悟らずして、民間の愁ふるところを知らざつしかば、久しからずして、亡じにし者どもなり。
+祇園精舎の鐘の声、諸行無常の響きあり。沙羅双樹の花の色、盛者必衰の理をあらはす。
+奢れる人も久しからず、ただ春の夜の夢のごとし。
+猛き者も遂にはほろびぬ、ひとへに風の前の塵に同じ。
+これは太字だよね
+太字
+これは__太字__にならないよ
+太字だね
+これはイタリックだよね
+イタリック
+これは_イタリック_にならないよ
+イタリックだね
+赤いテキスト
+画像埋め込み </description>
+    </item>
+    
+    <item>
+      <title>c/c3/index だよ</title>
+      <link>https://katachin.github.io/hugotest/c/c3/</link>
+      <pubDate>Thu, 08 Apr 2021 08:49:57 +0900</pubDate>
+      
+      <guid>https://katachin.github.io/hugotest/c/c3/</guid>
+      <description>これは c/c3/index.md だよ</description>
+    </item>
+    
+    <item>
       <title>c/c2　だよ</title>
-      <link>https://katachin.github.io/hugotest/c/c2/</link>
+      <link>https://katachin.github.io/hugotest/c/c22.html</link>
       <pubDate>Wed, 07 Apr 2021 15:50:39 +0900</pubDate>
       
-      <guid>https://katachin.github.io/hugotest/c/c2/</guid>
+      <guid>https://katachin.github.io/hugotest/c/c22.html</guid>
       <description>これは c/c2.md だよ</description>
     </item>
     
