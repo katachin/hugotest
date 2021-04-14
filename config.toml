@@ -8,7 +8,8 @@ enableGitInfo = true
 # uglyURLs = true
 
 # theme = "kata"
-theme = "ananke"
+# theme = "ananke"
+theme = "gohugo-theme-ananke"
 # x theme = "starter-academic"
 # x theme = "hugo-theme-iris"
 # x theme = "doks"
@@ -27,7 +28,6 @@ theme = "ananke"
 # theme = "capsule"
 # theme = "hugo-PaperMod"
 # theme = "hugo-theme-fuji"
-# theme = ""
 # theme = ""
 # theme = ""
 
