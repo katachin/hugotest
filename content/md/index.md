@@ -192,8 +192,22 @@ dddd
 ---
 
     aaa
-    bbb
+      bbb
     ccc
+
+***
+
+`aaa
+bbb
+ccc`
+
+---
+
+```
+aaa
+  bbb
+ccc
+```
 
 ***
 
@@ -308,3 +322,22 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 
 
 <iframe width="779" height="438" src="https://www.youtube.com/embed/TLhRw2VENfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+## footnote
+祇園精舎[^1]の鐘の声、諸行無常[^2]の響きあり。沙羅双樹の花の色、盛者必衰の理をあらはす。奢れる人も久しからず、ただ春の夜の夢のごとし。猛き者も遂にはほろびぬ、ひとへに風の前の塵に同じ。
+[^1]: ぎおんしょうじゃ
+[^2]: ゆうめいなセリフ
+
+## tasklist
+- [ ] hoge
+- [x] fuga
+
+
+## H2見出し {#h2_headline .hoge style="color:red;" }
+
+<h2 id="h2_headline" class="hoge" style="color:red;">H2見出し</h2>
+
+
+
