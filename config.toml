@@ -5,6 +5,8 @@ publishDir = "docs"
 
 enableGitInfo = true
 
+enableEmoji = true
+
 # uglyURLs = true
 
 # theme = "kata"

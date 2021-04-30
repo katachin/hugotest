@@ -237,7 +237,28 @@ eee
 
 ***
 
+# Syntax Highlighting
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
+```toml
+baseURL = "https://katachin.github.io/hugotest/"
+languageCode = "ja-JP"
+title = "テストン"
+publishDir = "docs"
+```
+
+# emoji
+😶😫😣🤷‍♀️💪😀😀😁❤🧡💛🤍😄
+
+:smile::heart:
+
+# html
 
 これは<font color="red">赤いテキスト</font>だよ
 
