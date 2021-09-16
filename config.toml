@@ -116,3 +116,31 @@ featured_image = "/images/orange720x320@.png"
     name = "[C-C2]"
     url = "/c/c2"
     weight = 420
+  [[menu.main]]
+    name = "[TW1]"
+    url = "/tw1"
+    weight = 500
+  [[menu.main]]
+    name = "[TW11]"
+    url = "/tw11"
+    weight = 510
+  [[menu.main]]
+    name = "[TW2]"
+    url = "/tw2"
+    weight = 520
+  [[menu.main]]
+    name = "[TW21]"
+    url = "/tw21"
+    weight = 530
+  [[menu.main]]
+    name = "[TW3]"
+    url = "/tw3"
+    weight = 540
+  [[menu.main]]
+    name = "[TW31]"
+    url = "/tw31"
+    weight = 550
+  [[menu.main]]
+    name = "[ZohoForm]"
+    url = "/zohoform"
+    weight = 600
