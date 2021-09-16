@@ -8,6 +8,15 @@
     <language>ja-JP</language>
     <lastBuildDate>Fri, 02 Apr 2021 15:02:06 +0900</lastBuildDate><atom:link href="https://katachin.github.io/hugotest/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Zohoform</title>
+      <link>https://katachin.github.io/hugotest/zohoform/</link>
+      <pubDate>Thu, 16 Sep 2021 12:08:51 +0900</pubDate>
+      
+      <guid>https://katachin.github.io/hugotest/zohoform/</guid>
+      <description>Zoho CRM Form TEST       html,body{ margin: 0px; } #crmWebToEntityForm.zcwf_lblLeft { width:100%; padding: 25px; margin: 0 auto; box-sizing: border-box; } #crmWebToEntityForm.zcwf_lblLeft * { box-sizing: border-box; } #crmWebToEntityForm{text-align: left;} #crmWebToEntityForm * { direction: ltr; } .zcwf_lblLeft .zcwf_title { word-wrap: break-word; padding: 0px 6px 10px; font-weight: bold; } .zcwf_lblLeft .zcwf_col_fld input[type=text], .zcwf_lblLeft .zcwf_col_fld textarea { width: 60%; border: 1px solid #ccc !important; resize: vertical; border-radius: 2px; float: left; } .</description>
+    </item>
+    
+    <item>
       <title>Tw31</title>
       <link>https://katachin.github.io/hugotest/tw31/</link>
       <pubDate>Wed, 25 Aug 2021 10:13:33 +0900</pubDate>
