@@ -148,3 +148,7 @@ featured_image = "/images/orange720x320@.png"
     name = "[ZohoForm2]"
     url = "/zohoform2"
     weight = 610
+  [[menu.main]]
+    name = "[ZohoForm3]"
+    url = "/zohoform3"
+    weight = 620

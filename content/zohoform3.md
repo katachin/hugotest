@@ -1,12 +1,12 @@
 ---
-title: "Zohoform2"
-date: 2021-09-21T10:05:11+09:00
+title: "Zohoform3"
+date: 2021-09-21T12:13:53+09:00
 draft: false
 ---
 
-## 将軍フォーム・見込み客
+## 将軍フォーム・問合せ
 
-*は必須項目
+*は必須項目やでー
 
 <!-- Note :
    - You can modify the font style and form style to suit your website. 
@@ -16,12 +16,12 @@ draft: false
 <div id='crmWebToEntityForm' class='zcwf_lblLeft crmWebToEntityForm' style='background-color: white;color: black;max-width: 600px;'>
   <meta name='viewport' content='width=device-width, initial-scale=1.0'>
    <META HTTP-EQUIV ='content-type' CONTENT='text/html;charset=SHIFT-JIS'>
-   <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads4955486000000449001 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory4955486000000449001()' accept-charset='UTF-8'>
+   <form action='https://crm.zoho.com/crm/WebToCaseForm' name=WebToCases4955486000000458030 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory4955486000000458030()' accept-charset='UTF-8'>
  <input type='text' style='display:none;' name='xnQsjsdp' value='8de49719e6339a66cfb41ca745a51bd4f2358dbc718d4653fb4d1049cd2fc03c'></input> 
  <input type='hidden' name='zc_gad' id='zc_gad' value=''></input> 
- <input type='text' style='display:none;' name='xmIwtLD' value='33363f61c9e7cd4cbd2f97e574f95badf461ae640c7b5fb08937a550ad7c8e3a'></input> 
- <input type='text'  style='display:none;' name='actionType' value='TGVhZHM='></input>
- <input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;www.google.com' > </input>
+ <input type='text' style='display:none;' name='xmIwtLD' value='33363f61c9e7cd4cbd2f97e574f95badc570c28bf4a3a43ce6b10d452df2ab6f'></input> 
+ <input type='text'  style='display:none;' name='actionType' value='Q2FzZXM='></input>
+ <input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;google.com' > </input>
 	 <!-- Do not remove this code. -->
 <style>
 html,body{
@@ -169,16 +169,26 @@ html,body{
 	.zcwf_lblLeft .zcwf_col_help {width: 40%;}
 }
 </style>
-<div class='zcwf_title' style='max-width: 600px;color: black;'>testform</div>
-<div class='zcwf_row'><div class='zcwf_col_lab' style='font-size:12px; font-family: Arial;'><label for='Company'>会社<span style='color:red;'>*</span></label></div><div class='zcwf_col_fld'><input type='text' id='Company' name='Company' maxlength='100'></input><div class='zcwf_col_help'></div></div></div>
-<div class='zcwf_row'><div class='zcwf_col_lab' style='font-size:12px; font-family: Arial;'><label for='Last_Name'>姓<span style='color:red;'>*</span></label></div><div class='zcwf_col_fld'><input type='text' id='Last_Name' name='Last Name' maxlength='80'></input><div class='zcwf_col_help'> <span title='&#x5c71;&#x7530;' style='cursor: pointer; width: 16px; height: 16px; display: inline-block; background: #fff; border: 1px solid #ccc; color: #ccc; text-align: center; font-size: 11px; line-height: 16px; font-weight: bold; border-radius: 50%;' onclick='tooltipShow4955486000000449001(this)'>?</span><div class='zcwf_tooltip_over' style='display: none;'><span class='zcwf_tooltip_ctn'>&#x5c71;&#x7530;</span></div></div></div></div>
-<div class='zcwf_row'><div class='zcwf_col_lab' style='font-size:12px; font-family: Arial;'><label for='First_Name'>名<span style='color:red;'>*</span></label></div><div class='zcwf_col_fld'><input type='text' id='First_Name' name='First Name' maxlength='40'></input><div class='zcwf_col_help'> <span title='&#x592a;&#x90ce;' style='cursor: pointer; width: 16px; height: 16px; display: inline-block; background: #fff; border: 1px solid #ccc; color: #ccc; text-align: center; font-size: 11px; line-height: 16px; font-weight: bold; border-radius: 50%;' onclick='tooltipShow4955486000000449001(this)'>?</span><div class='zcwf_tooltip_over' style='display: none;'><span class='zcwf_tooltip_ctn'>&#x592a;&#x90ce;</span></div></div></div></div>
-<div class='zcwf_row'><div class='zcwf_col_lab' style='font-size:12px; font-family: Arial;'><label for='Email'>メール<span style='color:red;'>*</span></label></div><div class='zcwf_col_fld'><input type='text' ftype='email' id='Email' name='Email' maxlength='100'></input><div class='zcwf_col_help'></div></div></div>
-<div class='zcwf_row'><div class='zcwf_col_lab' style='font-size:12px; font-family: Arial;'><label for='Description'>&#x304a;&#x554f;&#x5408;&#x305b;</label></div><div class='zcwf_col_fld'><textarea id='Description' name='Description'></textarea><div class='zcwf_col_help'></div></div></div><div class='zcwf_row'><div class='zcwf_col_lab'></div><div class='zcwf_col_fld'><input type='submit' id='formsubmit' class='formsubmit zcwf_button' value='&#x9001;&#x4fe1;' title='&#x9001;&#x4fe1;'><input type='reset' class='zcwf_button' name='reset' value='&#x30ea;&#x30bb;&#x30c3;&#x30c8;' title='&#x30ea;&#x30bb;&#x30c3;&#x30c8;'></div></div>
+<div class='zcwf_title' style='max-width: 600px;color: black;'>test2</div>
+<div class='zcwf_row'><div class='zcwf_col_lab' style='font-size:12px; font-family: Arial;'><label for='Status'>&#x30b9;&#x30c6;&#x30fc;&#x30bf;&#x30b9;<span style='color:red;'>*</span></label></div><div class='zcwf_col_fld'><select class='zcwf_col_fld_slt' id='Status' name='Status'  >
+			<option value='&#x65b0;&#x898f;'>&#x65b0;&#x898f;</option>
+			<option value='&#x30a8;&#x30b9;&#x30ab;&#x30ec;&#x30fc;&#x30b7;&#x30e7;&#x30f3;&#x4e2d;'>&#x30a8;&#x30b9;&#x30ab;&#x30ec;&#x30fc;&#x30b7;&#x30e7;&#x30f3;&#x4e2d;</option>
+			<option value='&#x4fdd;&#x7559;&#x4e2d;'>&#x4fdd;&#x7559;&#x4e2d;</option>
+			<option value='&#x5b8c;&#x4e86;'>&#x5b8c;&#x4e86;</option>
+		</select><div class='zcwf_col_help'></div></div></div>
+<div class='zcwf_row'><div class='zcwf_col_lab' style='font-size:12px; font-family: Arial;'><label for='Case_Origin'>&#x554f;&#x3044;&#x5408;&#x308f;&#x305b;&#x306e;&#x30c7;&#x30fc;&#x30bf;&#x5143;<span style='color:red;'>*</span></label></div><div class='zcwf_col_fld'><select class='zcwf_col_fld_slt' id='Case_Origin' name='Case Origin'  >
+			<option value='-None-'>-None-</option>
+			<option value='&#x30e1;&#x30fc;&#x30eb;'>&#x30e1;&#x30fc;&#x30eb;</option>
+			<option value='&#x96fb;&#x8a71;&#x756a;&#x53f7;'>&#x96fb;&#x8a71;&#x756a;&#x53f7;</option>
+			<option value='Web'>Web</option>
+		</select><div class='zcwf_col_help'></div></div></div>
+<div class='zcwf_row'><div class='zcwf_col_lab' style='font-size:12px; font-family: Arial;'><label for='Subject'>&#x4ef6;&#x540d;<span style='color:red;'>*</span></label></div><div class='zcwf_col_fld'><input type='text' id='Subject' name='Subject' maxlength='300'></input><div class='zcwf_col_help'></div></div></div>
+<div class='zcwf_row'><div class='zcwf_col_lab' style='font-size:12px; font-family: Arial;'><label for='Email'>&#x30e1;&#x30fc;&#x30eb;</label></div><div class='zcwf_col_fld'><input type='text' ftype='email' id='Email' name='Email' maxlength='300'></input><div class='zcwf_col_help'></div></div></div>
+<div class='zcwf_row'><div class='zcwf_col_lab' style='font-size:12px; font-family: Arial;'><label for='Description'>&#x8a73;&#x7d30;&#x60c5;&#x5831;</label></div><div class='zcwf_col_fld'><textarea id='Description' name='Description'></textarea><div class='zcwf_col_help'></div></div></div><div class='zcwf_row'><div class='zcwf_col_lab'></div><div class='zcwf_col_fld'><input type='submit' id='formsubmit' class='formsubmit zcwf_button' value='&#x9001;&#x4fe1;' title='&#x9001;&#x4fe1;'><input type='reset' class='zcwf_button' name='reset' value='&#x30ea;&#x30bb;&#x30c3;&#x30c8;' title='&#x30ea;&#x30bb;&#x30c3;&#x30c8;'></div></div>
 	<script>
-	function validateEmail4955486000000449001()
+	function validateEmail4955486000000458030()
 	{
-		var form = document.forms['WebToLeads4955486000000449001'];
+		var form = document.forms['WebToCases4955486000000458030'];
 		var emailFld = form.querySelectorAll('[ftype=email]');
 		var i;
 		for (i = 0; i < emailFld.length; i++)
@@ -199,11 +209,11 @@ html,body{
 		return true;
 	}
 
- 	  function checkMandatory4955486000000449001() {
-		var mndFileds = new Array('Company','First Name','Last Name','Email');
-		var fldLangVal = new Array('\u4F1A\u793E','\u540D','\u59D3','\u30E1\u30FC\u30EB');
+ 	  function checkMandatory4955486000000458030() {
+		var mndFileds = new Array('Case Origin','Subject');
+		var fldLangVal = new Array('\u554F\u3044\u5408\u308F\u305B\u306E\u30C7\u30FC\u30BF\u5143','\u4EF6\u540D');
 		for(i=0;i<mndFileds.length;i++) {
-		  var fieldObj=document.forms['WebToLeads4955486000000449001'][mndFileds[i]];
+		  var fieldObj=document.forms['WebToCases4955486000000458030'][mndFileds[i]];
 		  if(fieldObj) {
 			if (((fieldObj.value).replace(/^\s+|\s+$/g, '')).length==0) {
 			 if(fieldObj.type =='file')
@@ -235,11 +245,11 @@ html,body{
 			} catch (e) {}
 		    }
 		}
-		if(!validateEmail4955486000000449001()){return false;}
+		if(!validateEmail4955486000000458030()){return false;}
 		document.querySelector('.crmWebToEntityForm .formsubmit').setAttribute('disabled', true);
 	}
 
-function tooltipShow4955486000000449001(el){
+function tooltipShow4955486000000458030(el){
 	var tooltip = el.nextElementSibling;
 	var tooltipDisplay = tooltip.style.display;
 	if(tooltipDisplay == 'none'){
@@ -253,5 +263,5 @@ function tooltipShow4955486000000449001(el){
 	}
 }
 </script>
-	<!-- Do not remove this --- Analytics Tracking code starts --><script id='wf_anal' src='https://crm.zohopublic.com/crm/WebFormAnalyticsServeServlet?rid=33363f61c9e7cd4cbd2f97e574f95badf461ae640c7b5fb08937a550ad7c8e3agid8de49719e6339a66cfb41ca745a51bd4f2358dbc718d4653fb4d1049cd2fc03cgid885e3c1045bd9bdcc91bdf30f82b5696gid14f4ec16431e0686150daa43f3210513'></script><!-- Do not remove this --- Analytics Tracking code ends. --></form>
+	<!-- Do not remove this --- Analytics Tracking code starts --><script id='wf_anal' src='https://crm.zohopublic.com/crm/WebFormAnalyticsServeServlet?rid=33363f61c9e7cd4cbd2f97e574f95badc570c28bf4a3a43ce6b10d452df2ab6fgid8de49719e6339a66cfb41ca745a51bd4f2358dbc718d4653fb4d1049cd2fc03cgid0f1ed4ba8756dc25eecc4dbdce853c31gid14f4ec16431e0686150daa43f3210513'></script><!-- Do not remove this --- Analytics Tracking code ends. --></form>
 </div>
