@@ -13,7 +13,7 @@
       <pubDate>Tue, 21 Sep 2021 12:13:53 +0900</pubDate>
       
       <guid>https://katachin.github.io/hugotest/zohoform3/</guid>
-      <description>将軍フォーム・問合せ *は必須項目やでー
+      <description>Zoho CRM Form TEST ＜問い合わせ＞ *は必須項目
    html,body{margin: 0px;}#crmWebToEntityForm.zcwf_lblLeft {width:100%;padding: 25px;margin: 0 auto;box-sizing: border-box;}#crmWebToEntityForm.zcwf_lblLeft * {box-sizing: border-box;}#crmWebToEntityForm{text-align: left;}#crmWebToEntityForm * {direction: ltr;}.zcwf_lblLeft .zcwf_title {word-wrap: break-word;padding: 0px 6px 10px;font-weight: bold;}.zcwf_lblLeft .zcwf_col_fld input[type=text], .zcwf_lblLeft .zcwf_col_fld textarea {width: 60%;border: 1px solid #ccc !important;resize: vertical;border-radius: 2px;float: left;}.</description>
     </item>
     
@@ -23,7 +23,7 @@
       <pubDate>Tue, 21 Sep 2021 10:05:11 +0900</pubDate>
       
       <guid>https://katachin.github.io/hugotest/zohoform2/</guid>
-      <description>将軍フォーム・見込み客 *は必須項目
+      <description>Zoho CRM Form TEST ＜連絡先＞ *は必須項目
       html,body{ margin: 0px; } #crmWebToEntityForm.zcwf_lblLeft { width:100%; padding: 25px; margin: 0 auto; box-sizing: border-box; } #crmWebToEntityForm.zcwf_lblLeft * { box-sizing: border-box; } #crmWebToEntityForm{text-align: left;} #crmWebToEntityForm * { direction: ltr; } .zcwf_lblLeft .zcwf_title { word-wrap: break-word; padding: 0px 6px 10px; font-weight: bold; } .zcwf_lblLeft .zcwf_col_fld input[type=text], .zcwf_lblLeft .zcwf_col_fld textarea { width: 60%; border: 1px solid #ccc !important; resize: vertical; border-radius: 2px; float: left; } .</description>
     </item>
     
@@ -33,7 +33,8 @@
       <pubDate>Thu, 16 Sep 2021 12:08:51 +0900</pubDate>
       
       <guid>https://katachin.github.io/hugotest/zohoform/</guid>
-      <description>Zoho CRM Form TEST       html,body{ margin: 0px; } #crmWebToEntityForm.zcwf_lblLeft { width:100%; padding: 25px; margin: 0 auto; box-sizing: border-box; } #crmWebToEntityForm.zcwf_lblLeft * { box-sizing: border-box; } #crmWebToEntityForm{text-align: left;} #crmWebToEntityForm * { direction: ltr; } .zcwf_lblLeft .zcwf_title { word-wrap: break-word; padding: 0px 6px 10px; font-weight: bold; } .zcwf_lblLeft .zcwf_col_fld input[type=text], .zcwf_lblLeft .zcwf_col_fld textarea { width: 60%; border: 1px solid #ccc !important; resize: vertical; border-radius: 2px; float: left; } .</description>
+      <description>Zoho CRM Form TEST ＜見込み客＞ *は必須項目
+      html,body{ margin: 0px; } #crmWebToEntityForm.zcwf_lblLeft { width:100%; padding: 25px; margin: 0 auto; box-sizing: border-box; } #crmWebToEntityForm.zcwf_lblLeft * { box-sizing: border-box; } #crmWebToEntityForm{text-align: left;} #crmWebToEntityForm * { direction: ltr; } .zcwf_lblLeft .zcwf_title { word-wrap: break-word; padding: 0px 6px 10px; font-weight: bold; } .zcwf_lblLeft .zcwf_col_fld input[type=text], .zcwf_lblLeft .zcwf_col_fld textarea { width: 60%; border: 1px solid #ccc !important; resize: vertical; border-radius: 2px; float: left; } .</description>
     </item>
     
     <item>

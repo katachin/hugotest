@@ -141,14 +141,14 @@ featured_image = "/images/orange720x320@.png"
     url = "/tw31"
     weight = 550
   [[menu.main]]
-    name = "[ZohoForm]"
+    name = "[ZohoForm 見込み客]"
     url = "/zohoform"
     weight = 600
   [[menu.main]]
-    name = "[ZohoForm2]"
+    name = "[ZohoForm 連絡先]"
     url = "/zohoform2"
     weight = 610
   [[menu.main]]
-    name = "[ZohoForm3]"
+    name = "[ZohoForm 問い合わせ]"
     url = "/zohoform3"
     weight = 620
