@@ -8,6 +8,15 @@
     <language>ja-JP</language>
     <lastBuildDate>Fri, 02 Apr 2021 15:02:06 +0900</lastBuildDate><atom:link href="https://katachin.github.io/hugotest/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Tabletest</title>
+      <link>https://katachin.github.io/hugotest/tabletest/</link>
+      <pubDate>Wed, 17 Nov 2021 13:52:24 +0900</pubDate>
+      
+      <guid>https://katachin.github.io/hugotest/tabletest/</guid>
+      <description>   名前 栄養価 備考     卵 高い めっちゃ割れやすい   栗 知らん 固い         栄養価 備考     卵 高い めっちゃ割れやすい   栗 知らん 固い     名前色味トマト赤いうまいピーマン緑色にがーい 色味トマト赤いうまいピーマン緑色にがーい 名前色味トマト赤いうまいピーマン緑色にがーい 名前色味トマト赤いうまいピーマン緑色にがーい 名前&amp;lt;td style=&amp;quot;width: 137px;&amp;quot;&amp;gt;色&amp;lt;/td&amp;gt;&amp;lt;td style=&amp;quot;width: 298px;&amp;quot;&amp;gt;味&amp;lt;/td&amp;gt; トマト&amp;lt;td style=&amp;quot;width: 137px;&amp;quot;&amp;gt;赤い&amp;lt;/td&amp;gt;&amp;lt;td style=&amp;quot;width: 298px;&amp;quot;&amp;gt;うまい&amp;lt;/td&amp;gt; ピーマン&amp;lt;td style=&amp;quot;width: 137px;&amp;quot;&amp;gt;緑色&amp;lt;/td&amp;gt;&amp;lt;td style=&amp;quot;width: 298px;&amp;quot;&amp;gt;にがーい&amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt;色&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;味&amp;lt;/td&amp;gt; トマト&amp;lt;td&amp;gt;赤い&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;うまい&amp;lt;/td&amp;gt; ピーマン&amp;lt;td&amp;gt;緑色&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;にがーい&amp;lt;/td&amp;gt;  名前色味トマト赤いうまいピーマン緑色にがーい 名前 色味トマト&amp;lt;td&amp;gt;赤い&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;うまい&amp;lt;/td&amp;gt; ピーマン緑色&amp;lt;td&amp;gt;にがーい&amp;lt;/td&amp;gt; </description>
+    </item>
+    
+    <item>
       <title>Zohoform3</title>
       <link>https://katachin.github.io/hugotest/zohoform3/</link>
       <pubDate>Tue, 21 Sep 2021 12:13:53 +0900</pubDate>
@@ -24,7 +33,7 @@
       
       <guid>https://katachin.github.io/hugotest/zohoform2/</guid>
       <description>Zoho CRM Form TEST ＜連絡先＞ *は必須項目
-      html,body{ margin: 0px; } #crmWebToEntityForm.zcwf_lblLeft { width:100%; padding: 25px; margin: 0 auto; box-sizing: border-box; } #crmWebToEntityForm.zcwf_lblLeft * { box-sizing: border-box; } #crmWebToEntityForm{text-align: left;} #crmWebToEntityForm * { direction: ltr; } .zcwf_lblLeft .zcwf_title { word-wrap: break-word; padding: 0px 6px 10px; font-weight: bold; } .zcwf_lblLeft .zcwf_col_fld input[type=text], .zcwf_lblLeft .zcwf_col_fld textarea { width: 60%; border: 1px solid #ccc !important; resize: vertical; border-radius: 2px; float: left; } .</description>
+   html,body{margin: 0px;}#crmWebToEntityForm.zcwf_lblLeft {width:100%;padding: 25px;margin: 0 auto;box-sizing: border-box;}#crmWebToEntityForm.zcwf_lblLeft * {box-sizing: border-box;}#crmWebToEntityForm{text-align: left;}#crmWebToEntityForm * {direction: ltr;}.zcwf_lblLeft .zcwf_title {word-wrap: break-word;padding: 0px 6px 10px;font-weight: bold;}.zcwf_lblLeft .zcwf_col_fld input[type=text], .zcwf_lblLeft .zcwf_col_fld textarea {width: 60%;border: 1px solid #ccc !important;resize: vertical;border-radius: 2px;float: left;}.</description>
     </item>
     
     <item>
@@ -34,7 +43,7 @@
       
       <guid>https://katachin.github.io/hugotest/zohoform/</guid>
       <description>Zoho CRM Form TEST ＜見込み客＞ *は必須項目
-      html,body{ margin: 0px; } #crmWebToEntityForm.zcwf_lblLeft { width:100%; padding: 25px; margin: 0 auto; box-sizing: border-box; } #crmWebToEntityForm.zcwf_lblLeft * { box-sizing: border-box; } #crmWebToEntityForm{text-align: left;} #crmWebToEntityForm * { direction: ltr; } .zcwf_lblLeft .zcwf_title { word-wrap: break-word; padding: 0px 6px 10px; font-weight: bold; } .zcwf_lblLeft .zcwf_col_fld input[type=text], .zcwf_lblLeft .zcwf_col_fld textarea { width: 60%; border: 1px solid #ccc !important; resize: vertical; border-radius: 2px; float: left; } .</description>
+   html,body{margin: 0px;}#crmWebToEntityForm.zcwf_lblLeft {width:100%;padding: 25px;margin: 0 auto;box-sizing: border-box;}#crmWebToEntityForm.zcwf_lblLeft * {box-sizing: border-box;}#crmWebToEntityForm{text-align: left;}#crmWebToEntityForm * {direction: ltr;}.zcwf_lblLeft .zcwf_title {word-wrap: break-word;padding: 0px 6px 10px;font-weight: bold;}.zcwf_lblLeft .zcwf_col_fld input[type=text], .zcwf_lblLeft .zcwf_col_fld textarea {width: 60%;border: 1px solid #ccc !important;resize: vertical;border-radius: 2px;float: left;}.</description>
     </item>
     
     <item>

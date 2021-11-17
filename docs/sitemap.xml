@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://katachin.github.io/hugotest/tabletest/</loc>
+    <lastmod>2021-11-17T13:52:24+09:00</lastmod>
+  </url><url>
     <loc>https://katachin.github.io/hugotest/zohoform3/</loc>
-    <lastmod>2021-09-21T12:18:37+09:00</lastmod>
+    <lastmod>2021-09-28T10:33:10+09:00</lastmod>
   </url><url>
     <loc>https://katachin.github.io/hugotest/zohoform2/</loc>
-    <lastmod>2021-09-21T12:18:37+09:00</lastmod>
+    <lastmod>2021-09-28T10:33:10+09:00</lastmod>
   </url><url>
     <loc>https://katachin.github.io/hugotest/zohoform/</loc>
-    <lastmod>2021-09-16T12:13:42+09:00</lastmod>
+    <lastmod>2021-09-28T10:33:10+09:00</lastmod>
   </url><url>
     <loc>https://katachin.github.io/hugotest/tw31/</loc>
     <lastmod>2021-08-25T10:52:15+09:00</lastmod>
